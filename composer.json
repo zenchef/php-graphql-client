@@ -31,13 +31,12 @@
     "require": {
         "php": "^7.1 || ^8.0",
         "ext-json": "*",
-        "psr/http-message": "^1.0",
-        "psr/http-client": "^1.0",
-        "guzzlehttp/guzzle": "^6.3|^7.0.1"
+        "guzzlehttp/guzzle": "^6.3|^7.0.1",
+        "psr/http-message": "^2.0",
+        "psr/http-client": "^1.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^7.5|^8.0|^9.0",
-        "codacy/coverage": "^1.4",
         "aws/aws-sdk-php": "^3.186"
     },
     "conflict": {
