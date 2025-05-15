@@ -1,6 +1,6 @@
 {
     "name": "zenchef/php-graphql-client",
-    "description": "GraphQL client and query builder.",
+    "description": "GraphQL client and query builder / Temporary FORK to fix dependencies",
     "type": "library",
     "license": "MIT",
     "keywords": [
